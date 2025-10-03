@@ -1,4 +1,4 @@
-<h1>🤝 hi, i'm <strong>amal fouda</strong></h1>
+<h1>🤝 Hi, I'm <strong>Amal Fouda</strong></h1>
 
 🎓 Computer Engineering Student @ The American University in Cairo  
 📍 Cairo, Egypt • 💼 Internships in **Software** & **IT** • 🤖 Passionate about **Machine Learning**
