@@ -1,4 +1,4 @@
-hi, i'm **amal fouda**.
+<h1>🤝 hi, i'm <strong>amal fouda</strong></h1>
 
 🎓 Computer Engineering Student @ The American University in Cairo  
 📍 Cairo, Egypt • 💼 Internships in **Software** & **IT** • 🤖 Passionate about **Machine Learning**
@@ -7,11 +7,7 @@ hi, i'm **amal fouda**.
 
 ## 🌟 About Me
 I’m a Computer Engineering student with an **AI** concentration and a **Mathematics** minor.  
-My interests center on **machine learning** and **software engineering**—from building clean training/evaluation pipelines to shipping reliable backends with **CI/CD** and clear documentation. I value **practicality**, **reproducibility**, and **user impact**.
-
-- 🧠 Focus: classical ML, model evaluation, experiment tracking  
-- 🧩 Strengths: problem decomposition, readable code, concise docs  
-- ⚙️ Ways of working: small iterations, testing, automation
+I focus on **machine learning** and **software engineering**—from building clear training/evaluation pipelines to shipping reliable backends with solid documentation. I care about **practicality**, **reproducibility**, and **user impact**.
 
 ---
 
@@ -40,12 +36,7 @@ My interests center on **machine learning** and **software engineering**—from 
 **Languages:** C++ • Python • Rust • JavaScript  
 **ML Stack:** scikit-learn • pandas • NumPy • Jupyter  
 **Frameworks/Tools:** React • Node.js • Git • Linux • VMware • Jira  
-**Focus Areas:** Machine Learning • Backend/Systems • Evaluation & CI/CD
-
-- 🧪 Testing: unit tests • linting • pre-commit  
-- 📦 Packaging & Repro: virtualenv/venv • requirements.txt • notebooks with seeds  
-- 🔄 CI/CD: GitHub Actions (build → test → format)  
-- 🗒️ Docs: README-first • architecture notes • changelogs
+**Focus Areas:** Machine Learning • Backend/Systems • Evaluation
 
 ---
 
